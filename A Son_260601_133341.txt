@@ -1,0 +1,25 @@
+20160601 Actual Q&A
+
+1.introduced yourself
+2.present document
+3.actually you can directly feedback to JP?
+-->yes, as this page now I am Mechanical chief, I take responsibility and feedback to YAKO; my aim is feedback not only MEC but also ELEC &other.
+4.By English or Japanese?
+-->I feedback by both Japanese and English.
+5.Really?Only you can, your member can do?
+-->Yes, I can because I am C-GAP member. My member still feedback by English. To skill up member, I made plan training them daily.
+6.You already make plan training for member?
+-->Yes, daily I teach them Japanese and technical- design skill.
+7.explain more detail about monozukuri standard
+-->this is launching phace, DB/DC designer focus to function, drw is draft, so we feedback 3D, 2D drw feedback in DE but some time is difficult, not match with our aim because drw was fix. So I made monozukuri standard, feedback DB-before function fix.
+8.how many function already made(KMK and what's)
+-->I finished made 02, KMK and leak check -the function to keep ink head condition.
+9.If you can promote you can reduce Kobayashi, Fujii san?
+-->Yes, my aiming is CVN can self doing for utilize 100% CVN resources. Also if I can do, Kobayashi san and Fujii san have time for Genba understand, after that they comeback JP, can support more quickly and effective. Both CVN and YAKO become better!
+10.how to training your member? How many member you train?
+-->1st I make skill map for understanding member level, I teach them about Design skill, practice in Genba. Not only that as you know to become process design, process technical is important, I training in Genba with support from Assy &Div1 member.
+11.ENG member resign, how to prevent?
+-->I make "Omoshiroi" working environment, reduce time for normal job as gather data (take pickture, copy data) by apply new Tech, actual applied mobile tech (member can take picture in Genba, immediately can tranfer to PC office).
+
+HR GM:(1);(2);(9);(10);(11)
+QV FM:(3);(4);(5);(6);(7);(8)
